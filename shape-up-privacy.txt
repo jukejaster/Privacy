@@ -4,9 +4,9 @@ Privacy Policy
 This policy applies to the information inside of Shape Up.
 
 Information we collect
-Shape Up takes your privacy very seriously, and we do not share your data with anyone unless you allow Shape Up to share your weight data with Apple Health. In that case, your weight data will be shared with Apple and accessible from inside your Health app. We offer this for your convenience so you don't have to enter your weight data twice.
+Shape Up takes your privacy very seriously, and we do not share your data with anyone unless you allow Shape Up to share your weight data with Apple Health. In that case, your weight data will be shared with Apple and accessible from inside your Health app. We offer this for your convenience so you don't have to enter your weight data twice. All other data that requires Shape Up to function properly is stored locally on your device.
 
-All other data that requires Shape Up to function properly is stored locally on your device.
+If you opt in to allowing Shape Up to read and share your weight data from Apple Health, you are agreeing to the relevant privacy policy from Apple. Apple's privacy policy is accessible in multiple languages from https://www.apple.com/legal/privacy/.
 
 Your Consent
 By using Shape Up, you consent to our privacy policy.
