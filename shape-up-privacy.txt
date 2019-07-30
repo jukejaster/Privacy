@@ -1,0 +1,17 @@
+ (8 sloc)  649 Bytes
+    
+Privacy Policy
+This policy applies to the information inside of Shape Up.
+
+Information we collect
+We share your high scores with the Game Center leaderboards upon your authorization. Any other information is not collected by justncode LLC in any way. In other words, your high score is stored locally on your device to keep track of your progress in regards to your texting speed.
+
+Shape Up takes your privacy very seriously, and we do not share your data with anyone unless you allow Shape Up to share your weight data with Apple Health. In that case, your weight data will be shared with Apple and accessible from inside your Health app. We offer this for your convenience so you don't have to enter your weight data twice.
+
+All other data that requires Shape Up to function properly is stored locally on your device.
+
+Your Consent
+By using Shape Up, you consent to our privacy policy.
+
+Contacting Us
+If you have any questions regarding this privacy policy, you may email justin@justncode.com.
