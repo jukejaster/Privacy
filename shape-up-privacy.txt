@@ -1,15 +1,15 @@
  (8 sloc)  649 Bytes
     
 Privacy Policy
-This policy applies to the information inside of Weight Log - Weight Tracker.
+This policy applies to the information inside of Weight Log.
 
 Information we collect
-Weight Log - Weight Tracker takes your privacy very seriously, and we do not share your data with anyone unless you allow Weight Log - Weight Tracker to share your weight data with Apple Health. In that case, your weight data will be shared with Apple and accessible from inside your Health app. We offer this for your convenience so you don't have to enter your weight data twice. All other data that requires Weight Log - Weight Tracker to function properly is stored locally on your device.
+Weight Log takes your privacy very seriously, and we do not share your data with anyone unless you allow Weight Log to share your weight data with Apple Health. In that case, your weight data will be shared with Apple and accessible from inside your Health app. We offer this for your convenience so you don't have to enter your weight data twice. All other data that requires Weight Log to function properly is stored locally on your device.
 
-If you opt in to allowing Weight Log - Weight Tracker to read and share your weight data from Apple Health, you are agreeing to the relevant privacy policy from Apple. Apple's privacy policy is accessible in multiple languages from https://www.apple.com/legal/privacy/.
+If you opt in to allowing Weight Log to read and share your weight data from Apple Health, you are agreeing to the relevant privacy policy from Apple. Apple's privacy policy is accessible in multiple languages from https://www.apple.com/legal/privacy/.
 
 Your Consent
-By using Weight Log - Weight Tracker, you consent to our privacy policy.
+By using Weight Log, you consent to our privacy policy.
 
 Contacting Us
 If you have any questions regarding this privacy policy, you may email justin@justncode.com.
