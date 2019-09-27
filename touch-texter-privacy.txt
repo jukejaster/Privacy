@@ -1,13 +1,13 @@
  (8 sloc)  649 Bytes
     
 Privacy Policy
-This policy applies to the information inside of Touch Texter.
+This policy applies to the information inside of Touch Typer.
 
 Information we collect
 We share your high scores with the Game Center leaderboards upon your authorization. Any other information is not collected by justncode LLC in any way. In other words, your high score is stored locally on your device to keep track of your progress in regards to your texting speed.
 
 Your Consent
-By using Touch Texter, you consent to our privacy policy.
+By using Touch Typer, you consent to our privacy policy.
 
 Contacting Us
 If you have any questions regarding this privacy policy, you may email justin@justncode.com.
