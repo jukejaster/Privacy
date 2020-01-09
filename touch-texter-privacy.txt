@@ -1,13 +1,19 @@
- (8 sloc)  649 Bytes
-    
-Privacy Policy
-This policy applies to the information inside of Touch Typer.
+PRIVACY POLICY
 
-Information we collect
-We share your high scores with the Game Center leaderboards upon your authorization. Any other information is not collected by justncode LLC in any way. In other words, your high score is stored locally on your device to keep track of your progress in regards to your texting speed.
+We take your privacy as serious as we take our own. Check out everything we're doing to protect your information.
 
-Your Consent
-By using Touch Typer, you consent to our privacy policy.
+This Privacy Policy is meant to help you understand how your personal information is collected, used, and shared when you use Speed Typer.
 
-Contacting Us
-If you have any questions regarding this privacy policy, you may email justin@justncode.com.
+
+PERSONAL INFORMATION WE COLLECT
+We share your high scores with the Game Center leaderboards upon your authorization. Any other information is not collected by justncode LLC in any way. In other words, your high score is stored locally on your device to keep track of your progress in regards to your texting speed. By using Speed Typer, you consent to our privacy policy.
+
+
+
+CHANGES
+You can review the most current version of the Privacy Policy at any time at this page.  We reserve the right, at our sole discretion, to update, change or replace any part of this Privacy Policy by posting updates and changes to our app. It is your responsibility to check our app periodically for changes. Your continued use of or access to our website or the Service following the posting of any changes to this Privacy Policy constitutes acceptance of those changes.
+
+
+
+CONTACT US
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at justin@justncode.com.
