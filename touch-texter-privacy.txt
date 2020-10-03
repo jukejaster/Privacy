@@ -15,7 +15,7 @@ GOOGLE CRASHLYTICS
 We strive to make Speed Typer as stable as possible. Therefore, we leverage a crash reporter by Google named Crashlytics. This crash reporter will let us know of any crashes that are experienced inside of the app so that we can fix them.
 
 PERSONALIZED ADVERTISING
-Speed Typer leverages Google's AdMob to deliver personalized advertisements to you so that we can keep the application running for free. Since Speed Typer uses AdMob, we collect, share and use any user data as a result to help devlier these advertisements.
+Speed Typer leverages Google's AdMob to deliver personalized advertisements to you so that we can keep the application running for free. Since Speed Typer uses AdMob, we collect, share and use user data as a result to help devlier these advertisements.
 
 CHANGES
 You can review the most current version of the Privacy Policy at any time at this page. 
