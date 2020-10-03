@@ -6,9 +6,6 @@ This policy applies to the information inside of Weight Log.
 Information we collect
 Weight Log takes your privacy very seriously, and we do not share your data with anyone. All data that requires Weight Log to function properly is stored locally on your device.
 
-Personalized Advertising
-Weight Log leverages Google's AdMob to deliver personalized advertisements to you so that we can keep the application running for free. Since Weight Log uses AdMob, we collect, share and use any user data as a result to help devlier these advertisements.
-
 Your Consent
 By using Weight Log, you consent to our privacy policy.
 
