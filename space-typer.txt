@@ -1,0 +1,28 @@
+PRIVACY POLICY
+
+We take your privacy as serious as we take our own. Check out everything we're doing to protect your information.
+
+This Privacy Policy is meant to help you understand how your personal information is collected, used, and shared when you use Space Typer.
+
+
+PERSONAL INFORMATION WE COLLECT
+We share your high scores with the Game Center leaderboards upon your authorization. Any other information is not collected by justncode LLC in any way. In other words, your high score is stored locally on your device to keep track of your progress in regards to your texting speed. By using Space Typer, you consent to our privacy policy.
+
+GOOGLE ANALYTICS
+We use Google Analytics to collect usage and behavior data for Space Typer. This data could be anything such as user actions, system events, or errors. These analytics help us understand how our users use the app. Ultimately, these analytics help us understand how our users behave, so that we can make informed decisions about to make the product better.
+
+GOOGLE CRASHLYTICS
+We strive to make Space Typer as stable as possible. Therefore, we leverage a crash reporter by Google named Crashlytics. This crash reporter will let us know of any crashes that are experienced inside of the app so that we can fix them.
+
+PERSONALIZED ADVERTISING
+Space Typer leverages Google's AdMob to deliver personalized advertisements to you so that we can keep the application running for free. Since Space Typer uses AdMob, we collect, share and use user data as a result to help devlier these advertisements.
+
+CHANGES
+You can review the most current version of the Privacy Policy at any time at this page. 
+
+We reserve the right, at our sole discretion, to update, change or replace any part of this Privacy Policy by posting updates and changes to our app. It is your responsibility to check our app periodically for changes. Your continued use of or access to our website or the Service following the posting of any changes to this Privacy Policy constitutes acceptance of those changes.
+
+
+
+CONTACT US
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at justin@justncode.com.
