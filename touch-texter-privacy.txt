@@ -15,7 +15,20 @@ GOOGLE CRASHLYTICS
 We strive to make Speed Typer as stable as possible. Therefore, we leverage a crash reporter by Google named Crashlytics. This crash reporter will let us know of any crashes that are experienced inside of the app so that we can fix them.
 
 PERSONALIZED ADVERTISING
-Speed Typer leverages Google's AdMob to deliver personalized advertisements to you so that we can keep the application running for free. Since Speed Typer uses AdMob, we collect, share and use user data as a result to help devlier these advertisements.
+Personalized advertising is used to deliver you relevant advertisements and leads to an improved experience using Speed Typer. This is an opt-in feature for iOS 14+ devices, and Google's AdMob is the mobile advertising platform that Speed Typer uses to deliver personalized advertisements to you. Since Speed Typer uses Google's AdMob, we collect, share and use user data as a result to help devlier these advertisements.
+
+GOOGLE ADMOB
+To improve the performance of AdMob, we may collect certain information from Speed Typer, including:
+
+- IP address, which may be used to estimate the general location of a device.
+- Non-user related crash logs, which may be used to diagnose problems and improve the SDK. Diagnostic information may also be used for advertising and analytics purposes.
+- User-associated performance data such as app launch time, hang rate, or energy usage, which may be used to evaluate user behavior, understand the effectiveness of existing product features, and plan new features. Performance data may also be used for displaying ads, including sharing with other entities that display ads.
+- A Device ID such as the device's advertising identifier or other app-bounded device identifiers, which may be used for the purpose of third-party advertising and analytics.
+- Advertising data, such as advertisements the user has seen, may be used to power analytics and advertising features.
+- Other user product interactions like app launch taps, and interaction information, like video views, may be used to improve advertising performance.
+
+For more information about data collection related to AdMob, please see https://developers.google.com/admob/ios/data-disclosure.
+
 
 CHANGES
 You can review the most current version of the Privacy Policy at any time at this page. 
